@@ -1,0 +1,122 @@
+[
+    {
+        "productId": 14,
+        "categoryId": 17,
+        "productName": "Hard disk- SATA-iii(3Y) 4.TB WD(64MB.,Purple,WD40PURZ)",
+        "productImg": "./assets/img/product/harddisk-wd-sata-purple-4TB.png",
+        "detail": "คุณสมบัติ 4 TB HDD CCTV WD PURPLE (5400RPM, 64MB, SATA-3, WD40PURZ)\nBrand Western\nModel WD40PURZ\nCapacity 4 TB\nCache 64 MB\nInterface SATA III\nTransfer Rate (MB/sec) 150 MB/s\nRotational Speed 5400RPM\nForm Factor 3.5",
+        "price": 2800
+    },
+    {
+        "productId": 15,
+        "categoryId": 14,
+        "productName": "ZK teco u300-c",
+        "productImg": "./assets/img/product/zk-teco-u300-c.png",
+        "detail":"Model: U300-C\nProcessor\nALGORITHM BioBridge VX 10.0\nCard Capacity -\nFingerprint 3,000\nTransaction 100,000\nCommunacation LAN , USB , RS232/485 \nDisplay Color\nPower input DC 5V 2A\nAccess Control -\nOption ID-Card , Mifare\nMENU Thai/English\nVoice Thai/English",
+        "price": 2900
+    },
+    {
+        "productId": 16,
+        "categoryId": 7,
+        "productName": "FortiGate 50E Firewall [P/N FG-50E-BDL-950-12]",
+        "productImg": "./assets/img/product/forti-gate-50E-firewall.png",
+        "detail": "FortiGate 50E Firewall\nPerformance\n- IPS Throughput (HTTP / Enterprise Mix) 1 : 800 / 270 Mbps\n- NGFW Throughput 4 : 220 Mbps\n- Threat Protection Throughput 5 : 160 Mbps\n- Firewall Throughput : 2.5 Gbps\n- Firewall Latency 64 byte UDP packets) : 180 μs\n- Firewall Throughput (Packets Per Second) : 375 Kpps\nInterface Hardware\n- GE RJ45 Switch Ports : 5\n- GE RJ45 WAN Ports : 2\n- USB Ports : 1\n- Console (RJ45) : 1\nDimensions Height x Width x Length (inches) : 1.44 x 8.52 x 5.5\nWeight : 0.914 kg\n\nInclude\n1Yr Hardware plus 24x7 Unified Threat Protection (UTP) (IPS, Advanced Malware Protection, Application Control, Web Filtering, Antispam Service, and 24x7 FortiCare)",
+        "price": 20000
+    },
+    {
+        "productId": 17,
+        "categoryId": 7,
+        "productName": "FortiGate 60F Firewall [P/N FG-60F-BDL-950-12]",
+        "productImg": "./assets/img/product/forti-gate-60E-firewall.png",
+        "detail":"FortiGate 60F Firewall\nPerformance\n- IPS Throughput 2 : 1.4 Gbps\n- NGFW Throughput 2, 4 : 1 Gbps\n- Threat Protection Throughput 2, 5 : 700 Mbps\n- Firewall Throughput (1518 / 512 / 64 byte UDP packets) : 10/10/6 Gbps\n- Firewall Latency (64 byte UDP packets) : 4 μs\n- Firewall Throughput (Packets Per Second) : 9 Mpps\nInterface Hardware\n- GE RJ45 WAN / DMZ Ports : 2/1\n- GE RJ45 Internal Ports : 7\n- GE RJ45 FortiLink Ports : 2\n- USB Ports : 1\n- Console (RJ45) : 1\n",
+        "price": 28000
+    },
+    {
+        "productId": 18,
+        "categoryId": 7,
+        "productName": "FortiGate 100E Firewall [P/N FG-100E-BDL]",
+        "productImg": "./assets/img/product/forti-gate-100E-firewall.png",
+        "detail":"Performance\n- IPS Throughput 500 Mbps\n- NGFW Throughput 360 Mbps\n- Threat Protection Throughput 250 Mbps\n- Firewall Latency (64 byte UDP packets) 3 μs\n- Firewall Throughput (Packets Per Second) 6.6 Mpps\n- Concurrent Sessions (TCP) 2 Million\n- New Sessions/Second (TCP) 30,000\n- Firewall Policies 10,000\n- IPsec VPN Throughput (512 byte packets) 4 Gbps\n- Gateway-to-Gateway IPsec VPN Tunnels 2,000\n- Client-to-Gateway IPsec VPN Tunnels 10,000\n\nInterface Hardware\n- USB Port\n- Console Port\n- 2 x GE RJ45 MGMT/DMZ Ports\n- 2 x GE RJ45 WAN Ports\n- 2 x GE RJ45 HA Ports\n- 14 x GE RJ45 Ports\n",
+        "price": 75000
+    },
+    {
+        "productId": 19,
+        "categoryId": 7,
+        "productName": "FortiGate 100F Firewall [P/N FG-100F/FC-10-F100F-950-02-12]",
+        "productImg": "./assets/img/product/forti-gate-100f-firewall.png",
+        "detail":"Performance\n- IPS Throughput 2 : 2.6 Gbps\n- NGFW Throughput 2, 4 : 1.6 Gbps\n- Threat Protection Throughput 2, 5 : 1 Gbps\n- Firewall Latency (64 byte UDP packets) : 4.97 μs\n- Firewall Throughput (Packets Per Second) : 15 Mpps\n- Concurrent Sessions (TCP) : 1.5 Million\n- New Sessions/Second (TCP) : 56,000\n- Firewall Policies : 10,000\n- IPsec VPN Throughput (512 byte) 1 : 11.5 Gbps\n- Gateway-to-Gateway IPsec VPN Tunnels : 2,500\n- Client-to-Gateway IPsec VPN Tunnels : 16,000\n\nInterfaces- 1x USB Port\n- 1x Console Port\n- 2x GE RJ45 MGMT/DMZ Ports\n- 2x GE RJ45 WAN Ports\n- 2x GE RJ45 HA Ports\n- 12x GE RJ45 Ports\n- 2x 10 GE SFP+ FortiLink Slots\n- 4x GE SFP Slots\n- 4x GE RJ45/SFP Shared Media Pairs",
+        "price": 105000
+    },
+    {
+        "productId": 20,
+        "categoryId": 7,
+        "productName": "FortiGate 200E Firewall [P/N FG-200E-BDL]",
+        "productImg": "./assets/img/product/forti-gate-200e-firewall.png",
+        "detail":"Performance\n- IPS Throughput 2.2 Gbps\n- NGFW Throughput 1.8 Gbps\n- Threat Protection Throughput 1.2 Gbps\n- Firewall Latency (64 byte UDP packets) 3 μs\n- Firewall Throughput (Packets Per Second) 13.5 Mpps\n- Concurrent Sessions (TCP) 2 Million\n- New Sessions/Second (TCP) 135,000\n- Firewall Policies 10,000\n- IPsec VPN Throughput (512 byte packets) 7.2 Gbps\n- Gateway-to-Gateway IPsec VPN Tunnels 2,000\n- Client-to-Gateway IPsec VPN Tunnels 10,000\n\nInterface Hardware\n- USB Port\n- Console Port\n- 2 x GE RJ45 Management/HA Ports\n- 2 x GE RJ45 WAN Ports\n- 4 x GE SFP Slots\n- 14 x GE RJ45 Ports\n",
+        "price": 120000
+    },
+    {
+        "productId": 21,
+        "categoryId": 7,
+        "productName": "FortiGate 200F Firewall [P/N FG-200F-BDL-950-12]",
+        "productImg": "./assets/img/product/forti-gate-200f-firewall.png",
+        "detail":"Performance\n- IPS Throughput 5 Gbps\n- NGFW Throughput 3.5 Gbps\n- Threat Protection Throughput 3 Gbps\n- Firewall Latency (64 byte UDP packets) 4.78 μs\n- Firewall Throughput (Packets Per Second) 16.5 Mpps\n- Concurrent Sessions (TCP) 3 Million\n- New Sessions/Second (TCP) 280,000\n- Firewall Policies 10,000\n- IPsec VPN Throughput (512 byte packets) 13 Gbps\n- Gateway-to-Gateway IPsec VPN Tunnels 2,500\n- Client-to-Gateway IPsec VPN Tunnels 16,000\n\nInterfaces\n- 2x GE RJ45 HA / MGMT Ports\n- 16x GE RJ45 Ports\n- 2x 10 GE SFP+ Slots\n- 2x 10 GE SFP+ FortiLink Slots\n- 8x GE SFP Slots\n\nInclude\n1Yr Hardware plus 24x7 Unified Threat Protection (UTP) (IPS, Advanced Malware Protection, Application Control, Web Filtering, Antispam Service, and 24x7 FortiCare)",
+        "price": 170000
+    },
+    {
+        "productId": 22,
+        "categoryId": 6,
+        "productName": "Cisco Catalyst 3650 24 Port LAN base [P/N WS-C3650-24TS-L]",
+        "productImg": "./assets/img/product/cisco-catalyst-3650-24.png",
+        "detail":"Cisco Catalyst 3650 24 Port Data 4x1G Uplink LAN Base\nรองรับ Wirless LAN Controller ในตัว\nรองรับ Access Point ได้สูงถึง 25 ตัว (ซื้อ License ตามจำนวน AP)\nใช้เทคโนโลยี่ Cisco Stackwise 160 ในการเชื่อมต่อ แต่เห็นเป็นสวิตซ์เดียว\n LAN Base: Enterprise access layer 2 switching features\nLAN Base: access layer 3 switching Static Routing features\nรองรับ Redundant Power พร้อมพัดลม (Standard มา 1)\nDimensions (H x W x D) 4.4 x 44.5 x 44.8\nStandard Warranty 90 Days",
+        "price": 48000
+    },
+    {
+        "productId": 23,
+        "categoryId": 6,
+        "productName": "Cisco SG250-08 8 Port [P/N SG250-08-K9-EU]",
+        "productImg": "./assets/img/product/cisco-SG250-08-8-port.png",
+        "detail":"Cisco SG250-08 8 Port\n8 x10/100/1000Mbps , 2 Gigabit Ethernet combo\nSwitching Capacity 16 Gbps\nForwarding Rate 11.9 Mpps (64-byte packets)\nAC voltage 100 to 240V\nLayer 2 Switching, 256 VLANs\nMAC Address Table Size 8K entries\nJumbo Frame Support 9KB\nRouting Protocol IGMPv2, IGMP, IGMPv3, static IPv4 routing, static IPv6 routing, MLDv2, MLD, CIDR\nLife Time Warranty Carry-in (5 Year from EOS)",
+        "price": 3300
+    },
+    {
+        "productId": 24,
+        "categoryId": 6,
+        "productName": "Cisco SG350-10 10 Port [P/N SG350-10-K9-EU]",
+        "productImg": "./assets/img/product/cisco-SG350-10-10-port.png",
+        "detail":"Cisco SG350-10 10 Port\nPorts 8 x 10/100/1000 + 2 x combo Gigabit SFP\nSwitching Capacity : 20 gbps\nForwarding Rate : 14.88 mpps\nRouting Protocol Static IPv4 routing, CIDR\nCapacity Active VLANs: 4096\nMAC Address Table Size 16K entries\nJumbo Frame Support 9216 bytes\nDimension 280 x 44 x 170 mm\nWeight 1.09 kg\nLife Time Warranty Carry-in (5 Year from EOS)",
+        "price": 5500
+    },
+    {
+        "productId": 25,
+        "categoryId": 21,
+        "productName": "เครื่องอ่านบัตรบัตรประชาชน ร่น R301-C11",
+        "productImg": "./assets/img/product/R301-C11.png",
+        "detail":"คุณสมบัติ\n• สำมำรถอ่ำนบัตรประชำชนสมำร์ทคำร์ดของกรมกำรปกครองได้ทุกรุ่น\n• ช่องเสียบบัตรประจ ำตัวประชำชนใช้คอนแน็กเตอร์แบบ Soft-Landing เพื่อยืดอำยุกำรใช้งำนของบัตร\n• สำมำรถติดต่อกับบัตรประจ ำตัวประชำชนของกรมกำรปกครองด้วยควำมเร็วเทียบเท่ำ 5MHz\n• สำมำรถใช้กับบัตรได้ทั้ง 3 คลำส (Class A,B และ C) ที่แรงดัน 5V,3V และ 1.8V\n• ใช้ Driver CCID เสียบแล้วใช้งำนได้เลย\n• สำมำรถใช้ได้กับ Windows 2000 จนถึง Windows 10, Linux และ Mac OS\n• รองรับกำรติดต่อใช้งำนตำมมำตรฐำน Microsoft PC/SC",
+        "price": 700
+    },
+    {
+        "productId": 26,
+        "categoryId": 21,
+        "productName": "เครื่องอ่านบัตรบัตรประชาชน รุ่น ZW12026-1",
+        "productImg": "./assets/img/product/ZW12026-1.png",
+        "detail":"คุณสมบัติ\n• สามารถอ่านบัตรประจําตัวประชาชนแบบเอนกประสงค์(Smart Card )ได้ตามมาตรฐาน ISO/IEC 7816\n• สามารถใช้งานได้ตามมาตรฐาน Microsoft Personal Computer /Smart Card(PC/SC)\n• อินเตอร์เฟส: USB 2.0 CCID1 (ใช้ได้กับ USB 1.1)\n• ความเร็วในการส่ง: 12 Mbps (USB 2.0 full speed)\n• แหล่งจ่ายไฟ: พอร์ตยูเอสบี\n• ระบบปฏิบัติการที่รองรับ: Windows 98/Me/\n• การตรวจจับสมาร์ทการ์ด: การตรวจจับการเสียบบัตรพร้อมการปิดเครื่องอัตโนมัติการตรวจจับชนิดสมาร์ทการ์ดโดยอัตโนมัติการลัดวงจรและการป้องกันความร้อน\n• มาตรฐาน: ISO/IEC 7816 และ EMV2 2000 ระดับ 1",
+        "price": 400
+    },
+    {
+        "productId": 28,
+        "categoryId": 21,
+        "productName": "เครื่องอ่านบัตรบัตรประชาชน รุ่น R301-C11-SN",
+        "productImg": "./assets/img/product/R301-C11-SN.png",
+        "detail":"คุณสมบัติ\n• สามารถอ่านบัตรประชาชนสมาร์ทคาร์ดของกรมการปกครองได้ทุกรุ่น\n• สามารถใช้ Software ตรวจสอบเลข Serial Number ตัวเครื่อง ซึ่งจะตรงกับที่แสดงบนตัวเครื่อง\n• ช่องเสียบบัตรประจำตัวประชาชนใช้คอนแน็กเตอร์แบบ Soft-Landing เพื่อยืดอายุการใช้งานของบัตร\n• สามารถติดต่อกับบัตรประจำตัวประชาชนของกรมการปกครองด้วยความเร็วเทียบเท่า 5MHz\n• สามารถใช้กับบัตรได้ทั้ง 3 คลาส (Class A,B และ C) ที่แรงดัน 5V,3V และ 1.8V\n• ใช้ Driver CCID เสียบแล้วใช้งานได้เลย\n• สามารถใช้ได้กับ Windows 2000 จนถึง Windows 10, Linux และ Mac OS\n• รองรับการติดต่อใช้งานตามมาตรฐาน Microsoft PC/SC",
+        "price": 800
+    },
+    {
+        "productId": 29,
+        "categoryId": 22,
+        "productName": "ชุดพัฒนาซอฟต์แวร์อ่านบัตรประชาชนสำหรับ Android , Windows และ Web application  รุ่น MN-R301-SN (SDK)",
+        "productImg": "./assets/img/product/R301-C11-SN.png",
+        "detail":"พัฒนาแอปในระบบแอนดรอยด์ ระบบวินโดว์ และระบบเว็บแอพพลิเคชั่น ให้สามารถอ่านข้อมูลจากบัตรประชาชนได้ เช่นข้อมูลเลขประจำตัว 13 หลัก, ชื่อและที่อยู่ รวมถึงรูปถ่ายของเจ้าของบัตร สินค้ามาพร้อมเครื่อง เหมาะสำหรับโปรแกรมเมอร์และนักพัฒนาแอปพลิเคชันทุกท่าน",
+        "price": 2800
+    }
+]

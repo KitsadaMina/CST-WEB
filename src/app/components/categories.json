@@ -1,0 +1,112 @@
+[
+    {
+        "categoryId": 1,
+        "parent": null,
+        "categoryName": "เน็ตเวิร์คและ อุปกรณ์เสริมต่างๆ"
+    },
+    {
+        "categoryId": 2,
+        "parent": null,
+        "categoryName": "คอมพิวเตอร์"
+    },
+    {
+        "categoryId": 3,
+        "parent": null,
+        "categoryName": "หน้าจอคอมพิวเตอร์และโปรเจ็คเตอร์"
+    },
+    {
+        "categoryId": 4,
+        "parent": null,
+        "categoryName": "พริ้นเตอร์และสแกนเนอร์"
+    },
+    {
+        "categoryId": 5,
+        "parent": 1,
+        "categoryName": "Routers"
+    },
+    {
+        "categoryId": 6,
+        "parent": 1,
+        "categoryName": "Switches"
+    },
+    {
+        "categoryId": 7,
+        "parent": 1,
+        "categoryName": "Firewall & Log"
+    },
+    {
+        "categoryId": 8,
+        "parent": 2,
+        "categoryName": "Notebook"
+    },
+    {
+        "categoryId": 9,
+        "parent": 2,
+        "categoryName": "Desktop & All-in-one"
+    },
+    {
+        "categoryId": 10,
+        "parent": 3,
+        "categoryName": "Monitor"
+    },
+    {
+        "categoryId": 11,
+        "parent": 3,
+        "categoryName": "Projector"
+    },
+    {
+        "categoryId": 12,
+        "parent": 4,
+        "categoryName": "Printer"
+    },
+    {
+        "categoryId": 13,
+        "parent": null,
+        "categoryName": "เครื่องใช้สำนักงาน"
+    },
+    {
+        "categoryId": 14,
+        "parent": 13,
+        "categoryName": "เครื่องสแกนลายนิ้วมือ"
+    },
+    {
+        "categoryId": 15,
+        "parent": 13,
+        "categoryName": "Barcode Printer& Scan"
+    },
+    {
+        "categoryId": 16,
+        "parent": null,
+        "categoryName": "อุปกรณ์จัดเก็บข้อมูล"
+    },
+    {
+        "categoryId": 17,
+        "parent": 16,
+        "categoryName": "Hardisk Internal"
+    },
+    {
+        "categoryId": 18,
+        "parent": 16,
+        "categoryName": "Hardisk External"
+    },
+    {
+        "categoryId": 19,
+        "parent": 16,
+        "categoryName": "Nas Storage"
+    },
+    {
+        "categoryId": 20,
+        "parent": null,
+        "categoryName": "เครื่องอ่านบัตร Smart Card"
+    },
+    {
+        "categoryId": 21,
+        "parent": 20,
+        "categoryName": "เครื่องอ่านบัตร Smart Card"
+    },
+    {
+        "categoryId": 22,
+        "parent": 20,
+        "categoryName": "ชุดพัฒนาซอฟต์แวร์(SDK)"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "productId": 1,
+        "categoryId": 1,
+        "productName": "Switches",
+        "productImg": "./assets/img/product/switches.png"
+    },
+    {
+        "productId": 2,
+        "categoryId": 1,
+        "productName": "Wireless",
+        "productImg": "./assets/img/product/wireless.png"
+    },
+    {
+        "productId": 3,
+        "categoryId": 1,
+        "productName": "Cisco Meraki",
+        "productImg": "./assets/img/product/cisco-meraki.png"
+    },
+    {
+        "productId": 4,
+        "categoryId": 1,
+        "productName": "Edge Gateway",
+        "productImg": "./assets/img/product/edge-gateway.png"
+    },
+    {
+        "productId": 5,
+        "categoryId": 1,
+        "productName": "Conference",
+        "productImg": "./assets/img/product/conference.png"
+    },
+    {
+        "productId": 6,
+        "categoryId": 2,
+        "productName": "Firewall & Log",
+        "productImg": "./assets/img/product/firewall-log.png"
+    },
+    {
+        "productId": 7,
+        "categoryId": 2,
+        "productName": "Endpoint Protection",
+        "productImg": "./assets/img/product/endpoint-protection.png"
+    },
+    {
+        "productId": 8,
+        "categoryId": 3,
+        "productName": "Corporate PC & NB",
+        "productImg": "./assets/img/product/product-pc-notebook.png"
+    },
+    {
+        "productId": 9,
+        "categoryId": 3,
+        "productName": "Microsoft Surface",
+        "productImg": "./assets/img/product/product-surface.png"
+    },
+    {
+        "productId": 10,
+        "categoryId": 3,
+        "productName": "Printing & Scanning",
+        "productImg": "./assets/img/product/product-printer-scanner.png"
+    },
+    {
+        "productId": 11,
+        "categoryId": 3,
+        "productName": "Monitor",
+        "productImg": "./assets/img/product/product-monitor.png"
+    },
+    {
+        "productId": 12,
+        "categoryId": 3,
+        "productName": "UPS",
+        "productImg": "./assets/img/product/product-ups.png"
+    },
+    {
+        "productId": 13,
+        "categoryId": 3,
+        "productName": "Thai ID Card Reader",
+        "productImg": "./assets/img/product/product-idcard-reader.png"
+    },
+    {
+        "productId": 14,
+        "categoryId": 17,
+        "productName": "Hard disk- SATA-iii(3Y) 4.TB WD(64MB.,Purple,WD40PURZ)",
+        "productImg": "./assets/img/product/harddisk-wd-sata-purple-4TB.png"
+    },
+    {
+        "productId": 15,
+        "categoryId": 14,
+        "productName": "ZK teco u300-c",
+        "productImg": "./assets/img/product/zk-teco-u300-c.png"
+    },
+    {
+        "productId": 16,
+        "categoryId": 8,
+        "productName": "FortiGate 50E Firewall [P/N FG-50E-BDL-950-12]",
+        "productImg": "./assets/img/product/forti-gate-50E-firewall.png"
+    },
+    {
+        "productId": 17,
+        "categoryId": 8,
+        "productName": "FortiGate 60F Firewall [P/N FG-60F-BDL-950-12]",
+        "productImg": "./assets/img/product/forti-gate-60E-firewall.png"
+    },
+    {
+        "productId": 18,
+        "categoryId": 8,
+        "productName": "FortiGate 100E Firewall [P/N FG-100E-BDL]",
+        "productImg": "./assets/img/product/forti-gate-100E-firewall.png"
+    },
+    {
+        "productId": 19,
+        "categoryId": 8,
+        "productName": "FortiGate 100F Firewall [P/N FG-100F/FC-10-F100F-950-02-12]",
+        "productImg": "./assets/img/product/forti-gate-100f-firewall.png"
+    },
+    {
+        "productId": 20,
+        "categoryId": 8,
+        "productName": "FortiGate 200E Firewall [P/N FG-200E-BDL]",
+        "productImg": "./assets/img/product/forti-gate-200e-firewall.png"
+    },
+    {
+        "productId": 21,
+        "categoryId": 8,
+        "productName": "FortiGate 200F Firewall [P/N FG-200F-BDL-950-12]",
+        "productImg": "./assets/img/product/forti-gate-200f-firewall.png"
+    },
+    {
+        "productId": 22,
+        "categoryId": 6,
+        "productName": "Cisco Catalyst 3650 24 Port LAN base [P/N WS-C3650-24TS-L]",
+        "productImg": "./assets/img/product/cisco-catalyst-3650-24.png"
+    },
+    {
+        "productId": 23,
+        "categoryId": 6,
+        "productName": "Cisco SG250-08 8 Port [P/N SG250-08-K9-EU]",
+        "productImg": "./assets/img/product/cisco-SG250-08-8-port.png"
+    },
+    {
+        "productId": 24,
+        "categoryId": 6,
+        "productName": "Cisco SG350-10 10 Port [P/N SG350-10-K9-EU]",
+        "productImg": "./assets/img/product/cisco-SG350-10-10-port.png"
+    }
+]
